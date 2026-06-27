@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "890e6f79872556ae",
+        "id": "b265861beea1edd7",
         "type": "tabs",
         "children": [
           {
-            "id": "490af8368fbbe004",
+            "id": "a101858ddb4dd2ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "490af8368fbbe004",
+  "active": "ef61806338489eeb",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Excalidraw/Drawing 2026-06-23 22.29.56.excalidraw.md",
     "Untitled.md",
     "Excalidraw"
