@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b265861beea1edd7",
+        "id": "295c036dd322788c",
         "type": "tabs",
         "children": [
           {
-            "id": "76ea0dc89e0865d8",
+            "id": "99ef76c4bbd98a96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ecommerce-store.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ecommerce-store"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -191,13 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef61806338489eeb",
+  "active": "99ef76c4bbd98a96",
   "lastOpenFiles": [
+    "Excalidraw/Ecommerce-store.md",
+    "Untitled.md",
+    "Ecommerce-store",
     "Excalidraw/Testing/Untitled.md",
     "Excalidraw/Drawing 2026-06-27 21.57.14.excalidraw.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2026-06-23 22.29.56.excalidraw.md",
-    "Untitled.md",
     "Excalidraw"
   ]
 }
