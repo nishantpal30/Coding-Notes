@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -198,6 +197,8 @@
   "lastOpenFiles": [
     "Excalidraw/Ecommerce-store.md",
     "Untitled.md",
+    "Excalidraw/Drawing 2026-06-30 20.46.09.excalidraw.md",
+    "Untitled",
     "Ecommerce-store",
     "Excalidraw/Testing/Untitled.md",
     "Excalidraw/Drawing 2026-06-27 21.57.14.excalidraw.md",
