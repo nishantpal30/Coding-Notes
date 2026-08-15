@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md"
+                "file": "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-08-03 20.39.16.excalidraw"
             }
+          },
+          {
+            "id": "2c096360a5a266ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Basic Need.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Basic Need"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,13 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b4346cd35b018ad",
+  "active": "2c096360a5a266ef",
   "lastOpenFiles": [
-    "AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md",
-    "AirBnb/Untitled.md",
+    "Excalidraw/Basic Need.md",
+    "Projects Docs/Job Hunt",
+    "Untitled.md",
     "Ecommerce-store.md",
+    "Untitled 1",
+    "Projects Docs",
+    "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md",
+    "AirBnb/Untitled.md",
     "Excalidraw/Drawing 2026-08-03 20.38.06.excalidraw.md",
-    "AirBnb",
+    "Projects Docs/AirBnb",
     "Excalidraw/Drawing 2026-06-30 20.46.09.excalidraw.md",
     "Ecommerce-store",
     "Excalidraw/Testing/Untitled.md",
