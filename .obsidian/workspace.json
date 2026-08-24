@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b4346cd35b018ad",
+            "id": "62ed8ef6f8998e27",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md"
+                "file": "Projects Docs/Design.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-03 20.39.16.excalidraw"
-            }
-          },
-          {
-            "id": "2c096360a5a266ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Basic Need.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Basic Need"
+              "title": "Design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -209,15 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c096360a5a266ef",
+  "active": "62ed8ef6f8998e27",
   "lastOpenFiles": [
-    "Excalidraw/Basic Need.md",
+    "Projects Docs/Design.md",
+    "Projects Docs/Job Hunt/Basic Need.md",
+    "Projects Docs/LeetCode Clone",
+    "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md",
     "Projects Docs/Job Hunt",
     "Untitled.md",
     "Ecommerce-store.md",
     "Untitled 1",
     "Projects Docs",
-    "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md",
     "AirBnb/Untitled.md",
     "Excalidraw/Drawing 2026-08-03 20.38.06.excalidraw.md",
     "Projects Docs/AirBnb",
