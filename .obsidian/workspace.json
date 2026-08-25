@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects Docs/Design.md"
+                "file": "Projects Docs/InterviewRoute/Maindoc.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design"
+              "title": "Maindoc"
+            }
+          },
+          {
+            "id": "a9280f2c92845c1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Userdesign.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Userdesign"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -195,14 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62ed8ef6f8998e27",
+  "active": "a9280f2c92845c1b",
   "lastOpenFiles": [
-    "Projects Docs/Design.md",
+    "Excalidraw/Userdesign.md",
+    "Untitled.md",
+    "Excalidraw/Untitled",
+    "Projects Docs/InterviewRoute/Maindoc.md",
     "Projects Docs/Job Hunt/Basic Need.md",
-    "Projects Docs/LeetCode Clone",
+    "Projects Docs/InterviewRoute",
     "Projects Docs/AirBnb/Drawing 2026-08-03 20.39.16.excalidraw.md",
     "Projects Docs/Job Hunt",
-    "Untitled.md",
     "Ecommerce-store.md",
     "Untitled 1",
     "Projects Docs",
