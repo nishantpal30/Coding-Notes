@@ -31,8 +31,7 @@
               "title": "Userdesign"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -209,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9280f2c92845c1b",
+  "active": "62ed8ef6f8998e27",
   "lastOpenFiles": [
-    "Excalidraw/Userdesign.md",
     "Projects Docs/InterviewRoute/Maindoc.md",
+    "Excalidraw/Userdesign.md",
     "Untitled.md",
     "Excalidraw/Untitled",
     "Projects Docs/Job Hunt/Basic Need.md",
