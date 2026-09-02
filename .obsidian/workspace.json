@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62ed8ef6f8998e27",
+            "id": "846c517f26a5cca1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects Docs/InterviewRoute/Maindoc.md"
+                "file": "Collavio/Collavio main docs.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Maindoc"
-            }
-          },
-          {
-            "id": "a9280f2c92845c1b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Userdesign.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Userdesign"
+              "title": "Collavio main docs"
             }
           }
         ]
@@ -207,11 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62ed8ef6f8998e27",
+  "active": "846c517f26a5cca1",
   "lastOpenFiles": [
-    "Projects Docs/InterviewRoute/Maindoc.md",
+    "Collavio/Collavio main docs.md",
+    "Excalidraw/Drawing 2026-09-01 18.48.18.excalidraw.md",
     "Excalidraw/Userdesign.md",
+    "Projects Docs/InterviewRoute/Maindoc.md",
+    "Excalidraw/Untitled.canvas",
     "Untitled.md",
+    "Collavio",
     "Excalidraw/Untitled",
     "Projects Docs/Job Hunt/Basic Need.md",
     "Projects Docs/InterviewRoute",
