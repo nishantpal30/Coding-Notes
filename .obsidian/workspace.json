@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Collavio/Collavio main docs.md"
+                "file": "Projects Docs/InterviewRoute/Maindoc.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Collavio main docs"
+              "title": "Maindoc"
             }
           }
         ]
@@ -197,10 +197,11 @@
   },
   "active": "846c517f26a5cca1",
   "lastOpenFiles": [
+    "Projects Docs/InterviewRoute/Maindoc.md",
+    "Excalidraw/Maindoc.pdf",
+    "Excalidraw/Userdesign.md",
     "Collavio/Collavio main docs.md",
     "Excalidraw/Drawing 2026-09-01 18.48.18.excalidraw.md",
-    "Excalidraw/Userdesign.md",
-    "Projects Docs/InterviewRoute/Maindoc.md",
     "Excalidraw/Untitled.canvas",
     "Untitled.md",
     "Collavio",
