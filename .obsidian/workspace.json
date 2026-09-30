@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "062c8c4e4690b214",
+        "id": "6046ec71f941d6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "846c517f26a5cca1",
+            "id": "b37534e45db5253b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects Docs/InterviewRoute/Maindoc.md"
+                "file": "Excalidraw/book-me.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Maindoc"
+              "title": "book-me"
             }
           }
         ]
@@ -196,15 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "846c517f26a5cca1",
+  "active": "b37534e45db5253b",
   "lastOpenFiles": [
-    "Projects Docs/InterviewRoute/Maindoc.md",
+    "Excalidraw/book-me.md",
+    "Untitled.md",
     "Excalidraw/Maindoc.pdf",
     "Excalidraw/Userdesign.md",
+    "Projects Docs/InterviewRoute/Maindoc.md",
+    "Projects Docs/Book-me",
     "Collavio/Collavio main docs.md",
     "Excalidraw/Drawing 2026-09-01 18.48.18.excalidraw.md",
     "Excalidraw/Untitled.canvas",
-    "Untitled.md",
     "Collavio",
     "Excalidraw/Untitled",
     "Projects Docs/Job Hunt/Basic Need.md",
@@ -222,7 +224,6 @@
     "Excalidraw/Testing/Untitled.md",
     "Excalidraw/Drawing 2026-06-27 21.57.14.excalidraw.md",
     "Untitled 1.md",
-    "Excalidraw/Drawing 2026-06-23 22.29.56.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2026-06-23 22.29.56.excalidraw.md"
   ]
 }
