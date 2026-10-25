@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/book-me.md"
+                "file": "Projects Docs/InterviewRoute/Maindoc.md"
               },
               "icon": "excalidraw-icon",
-              "title": "book-me"
+              "title": "Maindoc"
+            }
+          },
+          {
+            "id": "42f0ddcca1206092",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects Docs/InterviewRoute/Users.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Users"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,17 +205,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b37534e45db5253b",
+  "active": "42f0ddcca1206092",
   "lastOpenFiles": [
+    "Projects Docs/InterviewRoute/Users.md",
+    "Projects Docs/InterviewRoute/Maindoc.md",
     "Excalidraw/book-me.md",
     "Untitled.md",
     "Excalidraw/Maindoc.pdf",
     "Excalidraw/Userdesign.md",
-    "Projects Docs/InterviewRoute/Maindoc.md",
     "Projects Docs/Book-me",
     "Collavio/Collavio main docs.md",
     "Excalidraw/Drawing 2026-09-01 18.48.18.excalidraw.md",
