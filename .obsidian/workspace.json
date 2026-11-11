@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6046ec71f941d6b5",
+        "id": "de1472f31092b854",
         "type": "tabs",
         "children": [
           {
-            "id": "b37534e45db5253b",
+            "id": "14cf9b2e672aba7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects Docs/InterviewRoute/Maindoc.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "42f0ddcca1206092",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projects Docs/InterviewRoute/Users.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Users"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -183,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -192,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42f0ddcca1206092",
+  "active": "ef61806338489eeb",
   "lastOpenFiles": [
+    "Untitled.md",
     "Projects Docs/InterviewRoute/Users.md",
     "Projects Docs/InterviewRoute/Maindoc.md",
     "Excalidraw/book-me.md",
-    "Untitled.md",
     "Excalidraw/Maindoc.pdf",
     "Excalidraw/Userdesign.md",
     "Projects Docs/Book-me",
