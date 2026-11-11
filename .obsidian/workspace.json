@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "de1472f31092b854",
+        "id": "ff25b992821ea129",
         "type": "tabs",
         "children": [
           {
-            "id": "14cf9b2e672aba7a",
+            "id": "809733a75cacfdfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects Docs/InterviewRoute/Users.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Users"
+            }
+          },
+          {
+            "id": "7ba4ad2b2fd47955",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projects Docs/InterviewRoute/problem.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "problem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4087ea58b3f7d6c6",
@@ -110,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects Docs/InterviewRoute/problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Projects Docs/InterviewRoute/problem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -191,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef61806338489eeb",
+  "active": "7ba4ad2b2fd47955",
   "lastOpenFiles": [
-    "Untitled.md",
     "Projects Docs/InterviewRoute/Users.md",
+    "Projects Docs/InterviewRoute/problem.md",
     "Projects Docs/InterviewRoute/Maindoc.md",
+    "Untitled.md",
     "Excalidraw/book-me.md",
     "Excalidraw/Maindoc.pdf",
     "Excalidraw/Userdesign.md",
